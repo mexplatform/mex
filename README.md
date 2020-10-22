@@ -1,6 +1,6 @@
 # MEX
 
-MEX is a benchmark framework for fast AI Experimentation. 
+MEX is a benchmark framework for AI experiments. 
 
 ### Goal
 The main goal of MEX is to enable fast offline experimentation for a broad range of AI tasks. 
@@ -13,3 +13,7 @@ The main goal of MEX is to enable fast offline experimentation for a broad range
 [![WIP: MEX](https://img.shields.io/badge/WIP-work--in--progress-yellow?style=for-the-badge&logo=appveyor)](https://github.com/mexplatform/mex/)
 
 
+### Changelog
+
+- 0.1
+  - support to X
