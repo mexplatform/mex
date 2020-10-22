@@ -3,7 +3,7 @@
 MEX is a benchmark framework for fast AI Experimentation. 
 
 ### Goal
-The main goal of MEX is to provide fast offline experimentation for a broad range of AI tasks. 
+The main goal of MEX is to enable fast offline experimentation for a broad range of AI tasks. 
 
 ### Supported AI Tasks
 
